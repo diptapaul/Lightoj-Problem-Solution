@@ -6,6 +6,7 @@ int main()
         freopen("input.txt", "r", stdin);
     #endif // O_Amay_bhalobase_Ni
 
+    cout << "temp" << endl;
 
     return 0;
 }
